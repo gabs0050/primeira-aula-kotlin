@@ -17,6 +17,6 @@ class Medico {
         for (especialidades in especialidades){
             println(" -> $especialidades")
         }
-        println("=========================")
+        println("-------------------------")
     }
 }
